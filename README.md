@@ -8,3 +8,6 @@ here are the controls:
 -----button 1, second press- selects the highlighted action
 -----button 2- you can show/ hide the stats screen
 -----shake when you can see the pet- animation
+<img width="587" height="445" alt="Screenshot 2026-10-27 3 03 32 PM" src="https://github.com/user-attachments/assets/7a79e533-40a9-48b8-a3da-466d285fcb34" />
+my schematic 
+the microcotnroaoller looks weird bc my computer wouldn't let me download it (i'm using the web browser version) and I had to manually create it
